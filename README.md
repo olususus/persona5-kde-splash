@@ -56,6 +56,7 @@ cd persona5-kde-splash
 mkdir -p ~/.local/share/plasma/look-and-feel/com.github.sprawdzany.persona5splash
 cp -r contents metadata.json ~/.local/share/plasma/look-and-feel/com.github.sprawdzany.persona5splash/
 ```
+   *Note: This copies only the essential theme files. The install.sh script copies all files, but only contents/ and metadata.json are required for the theme to function.*
 
 3. Apply the splash screen through System Settings (see step 3 above)
 
@@ -115,7 +116,8 @@ This project is licensed under the GPL (GNU General Public License).
 
 ## 👏 Credits
 
-- **Author**: Sprawdzany
+- **Original Author**: Sprawdzany
+- **Repository Maintainer**: olususus
 - **Inspired by**: Persona 5 by Atlus
 - **Theme ID**: `com.github.sprawdzany.persona5splash`
 
