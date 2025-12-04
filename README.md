@@ -54,7 +54,7 @@ cd persona5-kde-splash
 2. Copy files to the KDE look-and-feel directory:
 ```bash
 mkdir -p ~/.local/share/plasma/look-and-feel/com.github.sprawdzany.persona5splash
-cp -r * ~/.local/share/plasma/look-and-feel/com.github.sprawdzany.persona5splash/
+cp -r contents metadata.json ~/.local/share/plasma/look-and-feel/com.github.sprawdzany.persona5splash/
 ```
 
 3. Apply the splash screen through System Settings (see step 3 above)
