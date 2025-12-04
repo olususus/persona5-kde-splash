@@ -1,0 +1,16 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Id": "com.github.sprawdzany.persona5splash",
+        "Name": "Persona 5 Splash",
+        "Description": "Take Your Time",
+        "Authors": [
+            {
+                "Name": "Sprawdzany"
+            }
+        ],
+        "Icon": "preferences-desktop-theme-global",
+        "License": "GPL",
+        "Version": "1.0"
+    }
+}
